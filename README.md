@@ -108,6 +108,8 @@ print('=======Ubah Data Mahasiswa=======')
             print("Data Nilai Tidak Ada".format(nama))
 ```
 * Tambahkan inputan Fungsi Tampilkan
+
+![lihat](foto/lihat.png)
 ```python
 elif c.lower() == 'l':
  print("=======Daftar Nilai Mahasiswa=======")
@@ -124,6 +126,8 @@ elif c.lower() == 'l':
             print("============================================================================================")
 ```
 * Tambahkan inputan Fungsi Hapus
+
+![hapus](foto/hapus.png)
 ```python
 elif c.lower() == 'h':
 print("=======Hapus Data Mahasiswa=======")
@@ -134,6 +138,8 @@ print("=======Hapus Data Mahasiswa=======")
             print("Data Nilai Tidak Ada".format(nama))
 ```
 * Tambahkan inputan Fungsi Keluar
+
+![keluar](foto/keluar.png)
 ```python
 elif c.lower() == 'k':
 print("Keluar")
