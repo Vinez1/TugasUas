@@ -1,5 +1,5 @@
 # Ujian-Akhir-Semester-UAS-2020-2021-
-![logo](foto/logoupb.png)
+![logo](foto/Logoupb.png)
 # Nama  : Fery Affandi
 # NIM   : 312010018
 # KELAS : TI.20.A1
