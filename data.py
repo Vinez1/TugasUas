@@ -138,3 +138,4 @@ print("Keluar")
 * hasil dari program yang telah dibuat
 
 ![baru](foto/hasilakhir.png)
+
