@@ -1,8 +1,8 @@
 # Ujian-Akhir-Semester-UAS-2020-2021-
-![logo](foto/logo.png)
+![logo](foto/logoupb.png)
 # Nama  : Fery Affandi
 # NIM   : 312010018
-# KELAS : TI.A1.20
+# KELAS : TI.20.A1
 ![soal](foto/soaluas.png)
 
 * Pada tugas UAS, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
