@@ -77,6 +77,8 @@ while True:
     c =input("(L)lihat, (T)ambah, (U)bah, (H)apus, (K)eluar : ")
 ```
 * Berikutnya tambahkan inputan Fungsi Tambahkan
+![fungsi](foto/Hasil1.png)
+
 ```python
 if c.lower() == 't':
 print("=======Tambah Data=======")
