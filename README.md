@@ -137,7 +137,7 @@ print("Keluar")
 ```
 * hasil dari program yang telah dibuat
 
-![hasilakhir](foto/hasilakhir.png)
+![hasil](foto/Hasil.png)
 
 # Sekian Tugas UAS Kali ini
-# Terimakasih
+# Sekian Terimakasih
